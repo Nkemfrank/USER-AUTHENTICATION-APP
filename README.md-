@@ -1,0 +1,40 @@
+🛡️ User Registration & Login System
+
+A responsive and interactive web application that allows users to register and log in using a simple, intuitive interface. Built with HTML, CSS, and JavaScript, this project demonstrates core front-end development skills including form handling, client-side validation, dynamic DOM manipulation, and user feedback.
+
+✨ Features
+
+- User Registration with input fields for full name, username, email, phone number, and password
+- Client-side Validation for:
+  - Required fields
+  - Password confirmation
+  - Minimum password length
+  - Duplicate on username
+- Dynamic User Table that displays registered users in real time
+- Login Authentication that checks credentials against registered users
+- Interactive Alerts for success and error messages using a custom alert box
+- Form Reset after successful registration or login
+- Clean and Responsive UI with styled form sections for Register and Login
+
+🧠 Technologies Used
+
+- HTML – Semantic structure
+- CSS – Custom styling and layout
+- JavaScript – DOM manipulation, validation, and logic
+
+🚀 How to Use
+
+1. Clone the repository:
+   bash
+   git clone https://github.com/Nkemfrank/USER-AUTHENTICATION-APP.git
+   
+2. Open index.html (or userlist.html) in your browser.
+3. Register a new user.
+4. Log in using the registered credentials.
+
+📦 Future Improvements
+
+- Add persistent storage using localStorage or a backend
+- Implement password hashing for better security
+- Add user sessions and logout functionality
+- Improve UI with animations and accessibility features
